@@ -12,6 +12,9 @@ This challenge is to help me perfect my Front-end development prowess.
 Here is the finished password generator clip:
 https://screenrec.com/share/l3NZsdJbSx
 
+![image](https://github.com/ngarikev/Code-challenge/assets/122980206/1dc19838-2d4c-4148-bd1a-4ebe2430be3a)
+
+
 
 
 1: UI-Feedback page

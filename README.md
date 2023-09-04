@@ -3,9 +3,9 @@ This challenge is to help me perfect my Front-end development prowess.
 
     Bellow are the skills demonstrated in this challenge:
              Skills:
-        a: HTML
-        b: CSS
-        c: JAVASCRIPT
+                a: HTML
+                b: CSS
+                c: JAVASCRIPT
 
 0: Password Generator
     

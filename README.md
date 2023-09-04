@@ -16,5 +16,5 @@ This challenge is to help me perfect my Front-end development prowess.
 
 Here is the finished UI 
 
-![image](https://github.com/ngarikev/Code-challenge/assets/122980206/84f17d04-f9c5-4286-8041-dec4b26827c3)
+https://screenrec.com/share/8r5FExGRwq
 

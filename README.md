@@ -15,6 +15,10 @@ This challenge is to help me perfect my Front-end development prowess.
 1: UI-Feedback page
 
 Here is the finished UI 
-
 https://screenrec.com/share/8r5FExGRwq
+
+![image](https://github.com/ngarikev/Code-challenge/assets/122980206/0f3b3289-2c00-4da6-80d9-9cdc59ef0367)
+
+
+
 

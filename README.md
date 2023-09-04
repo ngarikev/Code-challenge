@@ -1,6 +1,10 @@
 # Code-challenge
 This challenge is to help me perfect my Front-end development prowess.
-
+    Bellow are the skills demonstrated in this challenge:
+             Skills:
+        a: HTML
+        b: CSS
+        c: JAVASCRIPT
 
 0: Password Generator
     
@@ -9,10 +13,6 @@ This challenge is to help me perfect my Front-end development prowess.
 
 1: UI-Feedback page
 
-    Tecnologie:
-        a: HTML
-        b: CSS
-        c: JAVASCRIPT
 Here is the finished UI 
 
 ![image](https://github.com/ngarikev/Code-challenge/assets/122980206/84f17d04-f9c5-4286-8041-dec4b26827c3)
